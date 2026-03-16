@@ -43,3 +43,6 @@ Overall, this internship helped me improve my skills in Python programming, web 
 Creating an organized interface for users
 
 This project helped me understand full-stack web development and how frontend and backend technologies work together.
+
+
+  
